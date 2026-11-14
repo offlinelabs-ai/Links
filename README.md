@@ -14,14 +14,6 @@ Run an AI model on your own computer with Ollama. No account, no API key, and yo
 
 ---
 
-# Offline Labs: links from every post
-
-Private AI, local LLMs, open-source tools and defensive security.
-Instagram / TikTok / YouTube: @offlinelabs.ai
-
-> Only test systems you own or have written permission to test.
-
----
 
 ## 3 AI agents that try to hack your app (Nov 2026)
 
