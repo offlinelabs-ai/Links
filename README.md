@@ -1,3 +1,19 @@
+## A ChatGPT-style AI that works with Wi-Fi off (Nov 2026)
+
+Run an AI model on your own computer with Ollama. No account, no API key, and your prompts never leave your machine.
+
+| Step | What to do |
+|------|------------|
+| 1 | Download Ollama: [ollama.com/download](https://ollama.com/download) (Mac app, Windows installer, or Linux script) |
+| 2 | On Linux, download the install script, read it, then run it. Don't pipe it straight into `sh`. |
+| 3 | Open Terminal and run: `ollama run llama3.2:3b` (about a 2 GB download, one time) |
+| 4 | Turn Wi-Fi off and ask it something. It still answers. |
+
+- Model page: [Llama 3.2 on Ollama](https://ollama.com/library/llama3.2)
+- Source code: [github.com/ollama/ollama](https://github.com/ollama/ollama)
+
+---
+
 # Offline Labs: links from every post
 
 Private AI, local LLMs, open-source tools and defensive security.
